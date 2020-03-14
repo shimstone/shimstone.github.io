@@ -75,7 +75,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : /assets/images/logo.jpg
+og_image                 : "/assets/images/logo.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Simstone"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "IT인이야말로 세상을 바꿀 중심이라고 믿는 개발자"
+  bio              : "IT인이야말로 세상을 바꿀 중심이라고 믿는 모바일 앱개발자"
   location         : "South Korea"
   email            : simstone@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:simstone@naver.com
+      # url: mailto:simstone@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
