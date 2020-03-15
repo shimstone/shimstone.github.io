@@ -5,6 +5,7 @@ main:
   - title: "WWDC"
     url: https://developer.apple.com/wwdc19/
   - title: "Raywenderlich"
+    url: https://www.raywenderlich.com
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
