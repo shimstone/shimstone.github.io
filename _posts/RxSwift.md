@@ -1,0 +1,27 @@
+### 1. just
+- 하나의 항목을 방출하는 Observable을 생성
+- 파라미터로 전달받은 요소를 그대로 방출함
+
+### 2. of
+- 하나 이상의 항목을 동시에 방출하는 Observable을 생성
+- 전달받은 파라미터 갯수만큼 이벤트 발생
+
+___
+just와 of는 전달받은 값을 그대로 방출한다.
+배열이 전달될 경우 배열 그 자체를 방출한다.
+배열 내부 요소별로 방출하려면 from을 사용해야 한다.
+___
+
+### 3. from
+- 배열을 전달받아 그 내부 각각의 요소를 방출하는 Observable 생성
+
+
+### 4. filter
+- closure를 파라미터로 받아서 그 closure에 true를 return하는 요소를 필터링해서 Observable에 포함시킴
+
+### 5. flatMap
+- 원본 Observable이 항목을 방출하면 flapMap operator가 변환함수를 실행하고 그 변환함수에서 방출한 항목을 Observable로 변환해줌
+- 원본 Observable이 방출하는 항목을 감시하다가 최신 값으로 변경되면 새로운 Observable을 생성
+- 모든 Observable이 방출하는 항목을 모아서 하나의 Observable로 만듦
+
+### 6. combineLatest
