@@ -4,8 +4,6 @@ date: 2019-11-18 08:26:28 -0400
 categories: jekyll update
 ---
 
-# iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp
-
 ## 1. Getting started with iOS 13 and Swift 5.1
 
 - 수강생이 강좌를 수강하면서 알아야 할 것들. 마음가짐

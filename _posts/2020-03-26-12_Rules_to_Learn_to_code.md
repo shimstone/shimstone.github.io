@@ -5,8 +5,6 @@ categories: jekyll update
 
 ---
 
-# 12 Rules to Learn to Code
-
 ## 1. Trick your brain with the 20min rule
 
 - 코딩을 익히는 것은 헬스장에 가는 것과 같다. 주말에 하루종일 헬스장에서 운동을 한다고 해도 눈에 띄는 몸의 변화는 볼 수 없을 것이다. 코딩도 마찬가지다. 하지만 더 정기적으로 코딩을 익히기 시작한다면 눈에 띄는 변화를 발견할 수 있을 것이다. 
