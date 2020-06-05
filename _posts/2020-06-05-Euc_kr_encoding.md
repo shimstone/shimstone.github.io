@@ -1,3 +1,11 @@
+---
+title: "iOS 나이스 페이 본인인증시 한글 인코딩 문제"
+date: 2020-06-04 08:42:28 -0400
+categories: jekyll update
+
+
+---
+
 # iOS 나이스 페이 본인인증시 한글 인코딩 문제
 
 이번 프로젝트에서 처음으로 본인인증을 붙여보게 되었는데 사실 구현자체는 서버쪽에서 알려준 링크를 웹뷰에 띄우기만 하면 되는 거라 어려울 것은 전혀 없었다.
@@ -58,6 +66,3 @@ extension String {
 var str: String = "인코딩된 값"
 str.removingPercentEncoding(using: .euc_kr)
 ```
-
-
-
