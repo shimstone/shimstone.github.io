@@ -16,7 +16,7 @@ utf-8처럼 그냥 removingPercentEncoding을 사용하면 nil이 반환된다.
 
 
 
-4~5시간 동안 Stack Overflow와 구글링을 한 끝에 iOS 오픈채팅방에서 답을 얻어 메서드를 작성해서 공유해 본다.
+4~5시간 동안 Stack Overflow와 구글링을 한 끝에 iOS 오픈채팅방에서 답을 얻어(진짜왕초보님께 감사를!) 메서드를 작성해서 공유해 본다.
 
 
 
