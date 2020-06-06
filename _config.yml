@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Simstone"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/logo.jpg"
   bio              : "IT인이야말로 세상을 바꿀 중심이라고 믿는 모바일 앱개발자"
   location         : "South Korea"
   email            : simstone@naver.com

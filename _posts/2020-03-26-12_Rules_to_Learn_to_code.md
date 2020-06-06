@@ -1,4 +1,9 @@
-# 12 Rules to Learn to Code
+---
+title: "12 Rules to Learn to Code"
+date: 2020-03-26 08:26:28 -0400
+categories: jekyll update
+
+---
 
 ## 1. Trick your brain with the 20min rule
 
