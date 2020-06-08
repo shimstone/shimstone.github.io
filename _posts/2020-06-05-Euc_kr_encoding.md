@@ -1,7 +1,7 @@
 ---
 title: "iOS 나이스 본인인증시 한글 인코딩 문제"
 date: 2020-06-04 08:42:28 -0400
-categories: jekyll update
+categories: iOS Swift NICE 본인인증 인코딩 encoding
 
 
 ---
