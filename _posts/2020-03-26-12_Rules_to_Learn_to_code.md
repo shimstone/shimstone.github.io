@@ -1,7 +1,7 @@
 ---
-title: "12 Rules to Learn to Code"
+title: "[개발] 12 Rules to Learn to Code"
 date: 2020-03-26 08:26:28 -0400
-categories: Development
+categories: dev
 ---
 
 ## 1. Trick your brain with the 20min rule
@@ -14,8 +14,6 @@ categories: Development
   하지만 여기서 사용할 수 있는 꼼수가 있다.
   
   사람은 많은 관성을 가지고 있다. 이 관성은 안좋은 쪽으로 작용할 수도 있다. 습관적으로 들여다보는 가쉽거리들, 유투브, 수많은 웹사이트 등등에 시간을 보낼 수도 있을 것이다. 하지만 반대로 이 것을 긍정적으로 사용할 수도 있다. 일단 공부하는 것에 관성을 들이면 이러한 인간의 관성을 긍정적으로 사용할 수 있다. 
-  
-  
   
   그렇다면 이 긍정적인 관성을 어떻게 만들어낼 수 있을까?
   

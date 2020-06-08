@@ -1,7 +1,8 @@
 ---
-title: "iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp by Angela Yu "
+title: "[iOS / Study] iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp by Angela Yu"
 date: 2019-11-18 08:26:28 -0400
-categories: jekyll update
+categories: iOS study
+
 ---
 
 ## 1. Getting started with iOS 13 and Swift 5.1
@@ -14,23 +15,23 @@ categories: jekyll update
 
     - 앱개발, 디자인, 배포까지 한 번에 배울 수 있다고 강조
 
-    ### 2. Download the Course Syllabus
+  ### 2. Download the Course Syllabus
 
     - 전체 강의 커리큘럼 PDF 다운로드
 
-    ### 3. How to Get All the Free Stuff
+  ### 3. How to Get All the Free Stuff
 
     - 제공하는 무료 Assets에 대한 소개
 
-    ### 4. Download your Massive Bundle of Assets
+  ### 4. Download your Massive Bundle of Assets
 
     - 강의에서 배포하는 무료 Assets 자료 다운로드
 
-    ### 5. Download the 12 Rules to Learn To Code eBook PDF
+  ### 5. Download the 12 Rules to Learn To Code eBook PDF
 
     - 수많은 우수 학생들에게서 뽑아낸 코드를 배울 때 12가지 규칙 PDF 다운로드
 
-    ### 6. How does an App Work?
+  ### 6. How does an App Work?
 
     - 앱이 실제로 어떻게 돌아가는지에 대한 설명
       1. 앱에서 버튼 클릭
@@ -47,7 +48,7 @@ categories: jekyll update
       2. 코드                    - Controller
       3. 데이터                 - Model
 
-    ### 7. How to Make An App
+  ### 7. How to Make An App
 
     - 앱이 어떻게 만들어지는 지에 대한 과정을 설명 및 각 과정을 어떻게 배울 것인가 설명
 
@@ -70,7 +71,7 @@ categories: jekyll update
       7. Update
          - 지속적인 사용자 경험 향상을 위한 업데이트
 
-    ### 8. How to Make the Most of the Bootcamp
+  ### 8. How to Make the Most of the Bootcamp
 
     - 이 강의를 들을 때의 추천 학습 방법을 설명
 
@@ -463,6 +464,6 @@ categories: jekyll update
   		4. How can we test the things our expectation depend on?
   		5. Fix our code to make reality match expectations
 
- ### 	87. Download the Completed App Project
+  ### 	87. Download the Completed App Project
 
 ## 9. iOS App Design Patterns and Code Structuring

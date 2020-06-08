@@ -1,7 +1,10 @@
 ---
-title: "[iOS/Swift] Autolayout 구현시 알아둘 점"
+title: "[iOS] Autolayout 구현시 알아둘 점"
 date: 2019-11-05 08:42:28 -0400
-categories: iOS swift autolayout
+categories: iOS
+tag:
+- UI
+- Autolayout
 
 ---
 
@@ -17,7 +20,6 @@ categories: iOS swift autolayout
   sampleTopConstraint.isActive = true
   ```
 
-  
 
 - isActive =  false를 안할 경우 동시에 따라야 할 제약이 생기게 되어 UI가 깨지게 된다.(Unable to simultaneously satisfy constraints.)
 
